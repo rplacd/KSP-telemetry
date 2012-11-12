@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <string name="ip">192.168.1.137</string>
+    <int name="port">15000</int>
+    <string name="format">MET vName</string>
+</config>

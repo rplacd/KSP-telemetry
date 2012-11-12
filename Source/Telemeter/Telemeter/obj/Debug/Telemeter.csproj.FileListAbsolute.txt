@@ -1,0 +1,9 @@
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\bin\Debug\Telemeter.dll
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\bin\Debug\Telemeter.pdb
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\bin\Debug\Assembly-CSharp.dll
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\bin\Debug\UnityEngine.dll
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\bin\Debug\Mono.Cecil.dll
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\bin\Debug\Mono.Security.dll
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\obj\Debug\Telemeter.dll
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\obj\Debug\Telemeter.pdb

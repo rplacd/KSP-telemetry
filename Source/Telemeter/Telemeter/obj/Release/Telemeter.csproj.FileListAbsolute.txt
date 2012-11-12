@@ -1,0 +1,19 @@
+C:\Users\Nick\AppData\Local\Temporary Projects\Telemeter\bin\Release\Telemeter.dll
+C:\Users\Nick\AppData\Local\Temporary Projects\Telemeter\bin\Release\Telemeter.pdb
+C:\Users\Nick\AppData\Local\Temporary Projects\Telemeter\bin\Release\Assembly-CSharp.dll
+C:\Users\Nick\AppData\Local\Temporary Projects\Telemeter\bin\Release\UnityEngine.dll
+C:\Users\Nick\AppData\Local\Temporary Projects\Telemeter\bin\Release\Mono.Cecil.dll
+C:\Users\Nick\AppData\Local\Temporary Projects\Telemeter\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Nick\AppData\Local\Temporary Projects\Telemeter\bin\Release\Mono.Security.dll
+C:\Users\Nick\AppData\Local\Temporary Projects\Telemeter\obj\Release\Telemeter.csprojResolveAssemblyReference.cache
+C:\Users\Nick\AppData\Local\Temporary Projects\Telemeter\obj\Release\Telemeter.dll
+C:\Users\Nick\AppData\Local\Temporary Projects\Telemeter\obj\Release\Telemeter.pdb
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\bin\Release\Telemeter.dll
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\bin\Release\Telemeter.pdb
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\bin\Release\Assembly-CSharp.dll
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\bin\Release\UnityEngine.dll
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\bin\Release\Mono.Cecil.dll
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\bin\Release\Mono.Security.dll
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\obj\Release\Telemeter.dll
+C:\Users\Nick\Documents\KSP_win\Parts\telemeter\src\Telemeter\Telemeter\obj\Release\Telemeter.pdb
